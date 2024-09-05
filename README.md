@@ -17,4 +17,6 @@ Todos:
 - [ ] $\pi^n$
 - [ ] $e^n$
 
+How it works: <https://zhuanlan.zhihu.com/p/669285539>
+
 Enjoy :)
